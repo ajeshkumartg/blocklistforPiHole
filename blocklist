@@ -1,0 +1,782 @@
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 adcolony.com
+0.0.0.0 admarvel.com
+0.0.0.0 admost.com
+0.0.0.0 admob.com
+0.0.0.0 adservice.google.com
+0.0.0.0 adsfs.oppomobile.com
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 adtech.yahooinc.com
+0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 advertising.apple.com
+0.0.0.0 advertising.com
+0.0.0.0 advertising.yahoo.com
+0.0.0.0 advertising.yandex.ru
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 adwrap.pop.inmobi.com
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 an.facebook.com
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 analytics.facebook.com
+0.0.0.0 analytics.google.com
+0.0.0.0 analytics.yahoo.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.vungle.com
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 app-measurement.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 app.mi.com
+0.0.0.0 appboy-images.com
+0.0.0.0 appboy.com
+0.0.0.0 appsflyer.com
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 c.applovin.com
+0.0.0.0 china.in.mobi
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 click.oneplus.cn
+0.0.0.0 co.inmobi.com
+0.0.0.0 crashlytics.com
+0.0.0.0 data.ads.oppomobile.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 doubleclick.net
+0.0.0.0 e.crashlytics.com
+0.0.0.0 events.hotjar.io
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 facebook.com
+0.0.0.0 flurry.com
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 google-analytics.com
+0.0.0.0 googleadservices.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 grs.hicloud.com
+0.0.0.0 i.clean.mobi
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 in.mobi
+0.0.0.0 inmobi.com
+0.0.0.0 instagram.com
+0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-logser.realme.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 m.doubleclick.net
+0.0.0.0 media.net
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 open.oneplus.net
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 partnerads.ysm.yahoo.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 s.youtube.com
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 samsungads.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 ssl.google-analytics.co
+0.0.0.0 static.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 stats.wp.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 tracking.rus.miui.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 vungle.com
+0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 www.app-measurement.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.inmobi.cn
+0.0.0.0 yandex.ru
+127.0.0.1 a.applovin.com
+127.0.0.1 a.yandex.ru
+127.0.0.1 ad.naver.com
+127.0.0.1 ad.yandex.ru
+127.0.0.1 adcash.com
+127.0.0.1 adcolony.com
+127.0.0.1 adincube.com
+127.0.0.1 admarvel.com
+127.0.0.1 admob.com
+127.0.0.1 admob.google.com
+127.0.0.1 ads.admarvel.com
+127.0.0.1 ads.google.com
+127.0.0.1 ads.mopub.com
+127.0.0.1 ads.yahoo.com
+127.0.0.1 ads1.adcolony.com
+127.0.0.1 adserver.adincube.com
+127.0.0.1 adservices.google.com
+127.0.0.1 adservetx.media.net
+127.0.0.1 analytics.adincube.com
+127.0.0.1 analytics.s3.amazonaws.com
+127.0.0.1 analytics.tiktok.com
+127.0.0.1 analytics.yahoo.com
+127.0.0.1 analyticsengine.s3.amazonaws.com
+127.0.0.1 android.mopub.com
+127.0.0.1 api.adcolony.com
+127.0.0.1 api.bugsnag.com
+127.0.0.1 api.mopub.com
+127.0.0.1 api.mouseflow.com
+127.0.0.1 app-adforce.jp
+127.0.0.1 app-measurement.com
+127.0.0.1 app.mopub.com
+127.0.0.1 applovin.com
+127.0.0.1 appmetrica.yandex.ru
+127.0.0.1 appnext.com
+127.0.0.1 avs-api- Lb.adcolony.com
+127.0.0.1 cdn.app-adforce.jp
+127.0.0.1 cdn.mouseflow.com
+127.0.0.1 cdn-test.mouseflow.com
+127.0.0.1 chartboost.com
+127.0.0.1 claritybt.freshmarketer.com
+127.0.0.1 click.googleanalytics.com
+127.0.0.1 core.adincube.com
+127.0.0.1 cs.gssprt.jp
+127.0.0.1 d.adcolony.com
+127.0.0.1 d.applovin.com
+127.0.0.1 data.mopub.com
+127.0.0.1 delivery.adincube.com
+127.0.0.1 events3.adcolony.com
+127.0.0.1 events3alt.adcolony.com
+127.0.0.1 freshmarketer.com
+127.0.0.1 fwtracks.freshmarketer.com
+127.0.0.1 google-analytics.com
+127.0.0.1 gtm.mouseflow.com
+127.0.0.1 i.applovin.com
+127.0.0.1 images.mopub.com
+127.0.0.1 impression.adincube.com
+127.0.0.1 logging.adincube.com
+127.0.0.1 mopub.com
+127.0.0.1 mouseflow.com
+127.0.0.1 o2.mouseflow.com
+127.0.0.1 pdn.applovin.com
+127.0.0.1 promos.mopub.com
+127.0.0.1 rtb.adincube.com
+127.0.0.1 s-img.mopub.com
+127.0.0.1 static.chartboost.com
+127.0.0.1 static.mopub.com
+127.0.0.1 tools.mouseflow.com
+127.0.0.1 tracking.adincube.com
+127.0.0.1 v.adcolony.com
+127.0.0.1 vcdn.adcolony.com
+127.0.0.1 wd.adcolony.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 yandex.ru
+a.applovin.com
+ad.naver.com
+ad.yandex.ru
+adcash.com
+adcolony.com
+adincube.com
+admarvel.com
+admob.com
+admob.google.com
+ads-api.tiktok.com
+ads-api.twitter.com
+ads-sg.tiktok.com
+ads.admarvel.com
+ads.google.com
+ads.linkedin.com
+ads.mopub.com
+ads.pinterest.com
+ads.tiktok.com
+ads.twitter.com
+ads.yahoo.com
+ads.youtube.com
+ads1.adcolony.com
+ads30.adcolony.com
+adserver.adincube.com
+adserver.unityads.unity3d.com
+adservices.google.com
+adservetx.media.net
+adc3-launch.adcolony.com
+adfstat.yandex.ru
+adfox.yandex.ru
+adm.hotjar.com
+analytics-sg.tiktok.com
+analytics.adincube.com
+analytics.mopub.com
+analytics.pinterest.com
+analytics.pointdrive.linkedin.com
+analytics.s3.amazonaws.com
+analytics.tiktok.com
+analytics.twitter.com
+analytics.yahoo.com
+analyticsengine.s3.amazonaws.com
+android.mopub.com
+api.adcolony.com
+api.bugsnag.com
+api.chartbeat.com
+api.mopub.com
+api.mouseflow.com
+api.luckyorange.com
+app-adforce.jp
+app-measurement.com
+app.mopub.com
+applovin.com
+appmetrica.yandex.ru
+appnext.com
+auction.unityads.unity3d.com
+avs-api- Lb.adcolony.com
+bid.g.doubleclick.net
+business-api.tiktok.com
+c.brightcove.com
+c.urs.avast.com
+c1.adform.net
+c2.adform.net
+cache-ssl.celtra.com
+cache.celtra.com
+caching.chartboost.com
+cdn.app-adforce.jp
+cdn.mouseflow.com
+cdn.luckyorange.com
+cdn-test.mouseflow.com
+celtra.com
+chartbeat.com
+chartbeat.net
+chartboost.com
+claritybt.freshmarketer.com
+click.googleanalytics.com
+cm.g.doubleclick.net
+config.unityads.unity3d.com
+core.adincube.com
+cs.gssprt.jp
+cs.luckyorange.net
+d.adcolony.com
+d.applovin.com
+d.yimg.com
+dash.chartbeat.com
+data.mopub.com
+de.m.pipedrive.net
+delivery.adincube.com
+dns.celtra.com
+e.crashlytics.com
+events.hotjar.com
+events.redditmedia.com
+events.reddit.com
+events3.adcolony.com
+events3alt.adcolony.com
+facebook.com
+facebook.net
+flashtalking.com
+freshmarketer.com
+fwtracks.freshmarketer.com
+g.doubleclick.net
+google-analytics.com
+googleads.g.doubleclick.net
+googletagservices.com
+gtm.mouseflow.com
+hotjar.com
+i.applovin.com
+i.clean.mobi
+identify.hotjar.com
+images.mopub.com
+img.flashtalking.com
+impression.adincube.com
+insights.hotjar.com
+instagram.com
+js.flashtalking.com
+linkedin.com
+live.chartbeat.com
+log.byteoversea.com
+log.pinterest.com
+logging.adincube.com
+luckyorange.com
+m.exacttarget.com
+m2.creativeg.com
+meb.adform.net
+media.net
+metrics.brightcove.com
+mobile.pipe.aria.microsoft.com
+mopub.com
+mouseflow.com
+o2.mouseflow.com
+oasc16001.247realmedia.com
+of.celtra.com
+offerwall.yandex.net
+omniture.com
+optimize.google.com
+p.brighcove.com
+partner.googleadservices.com
+pb.g.doubleclick.net
+pdn.applovin.com
+p drumming.pipedrive.com
+ping.chartbeat.net
+pinterest.com
+pipedrive.com
+pixel.facebook.com
+pixel.rubiconproject.com
+plus.google.com
+pr.yandex.ru
+promos.mopub.com
+pub.s7.exacttarget.com
+pubads.g.doubleclick.net
+quantcast.com
+realtime.luckyorange.com
+reddit.com
+rtb.adincube.com
+s-img.mopub.com
+s.yimg.com
+s1.adform.net
+s2.adform.net
+script.hotjar.com
+secure.flashtalking.com
+securepubads.g.doubleclick.net
+settings.crashlytics.com
+settings.luckyorange.net
+sp.analytics.yahoo.com
+ssl.google-analytics.com
+static.ads-twitter.com
+static.chartbeat.com
+static.chartboost.com
+static.hotjar.com
+static.licdn.com
+static.mopub.com
+static.xx.fbcdn.net
+stats.g.doubleclick.net
+stats.wp.com
+surveys.hotjar.com
+t.co
+tag.g.doubleclick.net
+tiktok.com
+tools.mouseflow.com
+track.adform.net
+tracking.adincube.com
+tracking.pipedrive.com
+trk.pinterest.com
+trk.dotomi.com
+twitter.com
+upload.luckyorange.net
+urs.avast.com
+v.adcolony.com
+vcdn.adcolony.com
+w1.luckyorange.com
+wd.adcolony.com
+webview.unityads.unity3d.com
+widgets.pinterest.com
+www.facebook.com
+www.google-analytics.com
+www.googleadservices.com
+www.googletagservices.com
+www.linkedin.com
+www.omniture.com
+yandex.ru
+youtube.com
+ytrack.com
+a.adroll.com
+ad.jetpackdigital.com
+ad.leadbolt.net
+ad.reduxmedia.com
+ad.z5x.net
+ad-g.doubleclick.net
+ad-specs.guoshipartners.com
+ad.auditude.com
+ad.wsod.com
+ad1.adfarm1.adition.com
+ad3.adfarm1.adition.com
+ad6.adfarm1.adition.com
+ada.support.audo.com
+adbrix.com
+adbroker.is
+adcloud.net
+adform.net
+adfurikun.jp
+adgear.com
+adgravity.com
+adhood.com
+adition.com
+adk2.co
+adk2.com
+adkonekt.com
+adlib.mobi
+adlıb.net
+admagnet.com
+adman.gr
+adman.in
+admanager-yp.adperfect.com
+admarketplace.net
+admaster.com.cn
+admax.nexage.com
+admixer.co.kr
+admob.co.kr
+admob.co.nz
+admob.co.uk
+admob.com.br
+admob.com.es
+admob.com.fr
+admob.com.ru
+admob.com.se
+admob.de
+admob.dk
+admob.fi
+admob.gr
+admob.it
+admob.jp
+admob.kr
+admob.no
+admob.pt
+admob.sg
+admob.us
+admotion.com.ar
+adn.ebay.com
+adnet.biz
+adnet.de
+adnet.world
+adnetasia.com
+adnetwork.vn
+adnews.com
+adnexus.asia
+adnium.com
+adnz.co
+adocean-global.com
+adohana.com
+adohana.net
+adonly.com
+adonweb.ru
+adoperator.com
+adorika.net
+adotmob.com
+adots.net
+adperium.com
+adperfect.com
+adpicker.de
+adplacemant.com
+adplex.co.kr
+adplus.co.id
+adplus.com.cn
+adpost.com
+adpremium.ru
+adprojekt.pl
+adprovide.com
+adpulse.org
+adpushup.com
+adquota.com
+adreactor.com
+adrecover.com
+adriver.ru
+adrolays.de
+adroll.com
+adrotate.com
+adruptive.com
+ads-adswish.rhcloud.com
+ads-avازون.rhcloud.com
+ads-z.yld.mx
+ads.adadapted.com
+ads.adcel.co
+ads.adecosystem.com
+ads.adengage.com
+ads.adfox.ru
+ads.admarvel.com
+ads.admoda.com
+ads.adtheorent.com
+ads.adtoma.com
+ads.adwits.com
+ads.aerserv.com
+ads.ayads.co
+ads.bluelithium.com
+ads.blogherads.com
+ads.clovenetwork.com
+ads.com.com
+ads.comodoonline.com
+ads.digitalthrottle.com
+ads.digitaltrends.com
+ads.eat-sleep-publish.com
+ads.economist.com
+ads.eplayer.com
+ads.euronews.com
+ads.examiner.com
+ads.eyewonder.com
+ads.fanaru.com
+ads.feeds.passagensaereas.com.br
+ads.filmjunk.com
+ads.financialcontent.com
+ads.flooco.net
+ads.flurry.com
+ads.forbes.com
+ads.forwardstaging.com
+ads.foxnetworks.com
+ads.frontierss.com
+ads.glispa.com
+ads.gmodules.com
+ads.hearstnp.com
+ads.ibryte.com
+ads.ign.com
+ads.index.hu
+ads.innity.com
+ads.insightexpress.com
+ads.intentiq.com
+ads.intergi.com
+ads.jubii.dk
+ads.kik.com
+ads.kitd.com
+ads.krawall.de
+ads.krux.com
+ads.kruzr.com
+ads.lexpress.fr
+ads.libsyn.com
+ads.mediaodyssey.com
+ads.medyanet.com.tr
+ads.mgid.com
+ads.mid-day.com
+ads.mjoy.com
+ads.mobileposse.com
+ads.mobclix.com
+ads.motocal.com
+ads.mpath.com
+ads.mydas.mobi
+ads.netsheer.com
+ads.ookla.com
+ads.openx.com
+ads.p161.net
+ads.patoghen.com
+ads.personagraph.com
+ads.pheedo.com
+ads.phpclasses.org
+ads.picktorrent.com
+ads.pinger.com
+ads.playwire.com
+ads.pof.com
+ads.popscreens.com
+ads.predictad.com
+ads.pubmatic.com
+ads.quirky.com
+ads.quoka.de
+ads.reporo.net
+ads.rockyou.com
+ads.saymedia.com
+ads.scanscout.com
+ads.servebom.com
+ads.shopstyle.com
+ads.sift.co
+ads.sift.com
+ads.silver-screen.pl
+ads.sjoroos.com
+ads.skimresources.com
+ads.smartclip.net
+ads.smartdevicemedia.com
+a.adroll.com
+ad.jetpackdigital.com
+ad.leadbolt.net
+ad.reduxmedia.com
+ad.z5x.net
+ad-g.doubleclick.net
+ad-specs.guoshipartners.com
+ad.auditude.com
+ad.wsod.com
+ad1.adfarm1.adition.com
+ad3.adfarm1.adition.com
+ad6.adfarm1.adition.com
+ada.support.audo.com
+adbrix.com
+adbroker.is
+adcloud.net
+adform.net
+adfurikun.jp
+adgear.com
+adgravity.com
+adhood.com
+adition.com
+adk2.co
+adk2.com
+adkonekt.com
+adlib.mobi
+adlıb.net
+admagnet.com
+adman.gr
+adman.in
+admanager-yp.adperfect.com
+admarketplace.net
+admaster.com.cn
+admax.nexage.com
+admixer.co.kr
+admob.co.kr
+admob.co.nz
+admob.co.uk
+admob.com.br
+admob.com.es
+admob.com.fr
+admob.com.ru
+admob.com.se
+admob.de
+admob.dk
+admob.fi
+admob.gr
+admob.it
+admob.jp
+admob.kr
+admob.no
+admob.pt
+admob.sg
+admob.us
+admotion.com.ar
+adn.ebay.com
+adnet.biz
+adnet.de
+adnet.world
+adnetasia.com
+adnetwork.vn
+adnews.com
+adnexus.asia
+adnium.com
+adnz.co
+adocean-global.com
+adohana.com
+adohana.net
+adonly.com
+adonweb.ru
+adoperator.com
+adorika.net
+adotmob.com
+adots.net
+adperium.com
+adperfect.com
+adpicker.de
+adplacemant.com
+adplex.co.kr
+adplus.co.id
+adplus.com.cn
+adpost.com
+adpremium.ru
+adprojekt.pl
+adprovide.com
+adpulse.org
+adpushup.com
+adquota.com
+adreactor.com
+adrecover.com
+adriver.ru
+adrolays.de
+adroll.com
+adrotate.com
+adruptive.com
+ads-adswish.rhcloud.com
+ads-avازون.rhcloud.com
+ads-z.yld.mx
+ads.adadapted.com
+ads.adcel.co
+ads.adecosystem.com
+ads.adengage.com
+ads.adfox.ru
+ads.admarvel.com
+ads.admoda.com
+ads.adtheorent.com
+ads.adtoma.com
+ads.adwits.com
+ads.aerserv.com
+ads.ayads.co
+ads.bluelithium.com
+ads.blogherads.com
+ads.clovenetwork.com
+ads.com.com
+ads.comodoonline.com
+ads.digitalthrottle.com
+ads.digitaltrends.com
+ads.eat-sleep-publish.com
+ads.economist.com
+ads.eplayer.com
+ads.euronews.com
+ads.examiner.com
+ads.eyewonder.com
+ads.fanaru.com
+ads.feeds.passagensaereas.com.br
+ads.filmjunk.com
+ads.financialcontent.com
+ads.flooco.net
+ads.flurry.com
+ads.forbes.com
+ads.forwardstaging.com
+ads.foxnetworks.com
+ads.frontierss.com
+ads.glispa.com
+ads.gmodules.com
+ads.hearstnp.com
+ads.ibryte.com
+ads.ign.com
+ads.index.hu
+ads.innity.com
+ads.insightexpress.com
+ads.intentiq.com
+ads.intergi.com
+ads.jubii.dk
+ads.kik.com
+ads.kitd.com
+ads.krawall.de
+ads.krux.com
+ads.kruzr.com
+ads.lexpress.fr
+ads.libsyn.com
+ads.mediaodyssey.com
+ads.medyanet.com.tr
+ads.mgid.com
+ads.mid-day.com
+ads.mjoy.com
+ads.mobileposse.com
+ads.mobclix.com
+ads.motocal.com
+ads.mpath.com
+ads.mydas.mobi
+ads.netsheer.com
+ads.ookla.com
+ads.openx.com
+ads.p161.net
+ads.patoghen.com
+ads.personagraph.com
+ads.pheedo.com
+ads.phpclasses.org
+ads.picktorrent.com
+ads.pinger.com
+ads.playwire.com
+ads.pof.com
+ads.popscreens.com
+ads.predictad.com
+ads.pubmatic.com
+ads.quirky.com
+ads.quoka.de
+ads.reporo.net
+ads.rockyou.com
+ads.saymedia.com
+ads.scanscout.com
+ads.servebom.com
+ads.shopstyle.com
+ads.sift.co
+ads.sift.com
+ads.silver-screen.pl
+ads.sjoroos.com
+ads.skimresources.com
+ads.smartclip.net
+ads.smartdevicemedia.com
+0.0.0.0 an.facebook.com
+0.0.0.0 analytics.facebook.com
+0.0.0.0 pixel.facebook.com
+127.0.0.1 facebook.com
+127.0.0.1 instagram.com
+facebook.com
+facebook.net
+instagram.com
+plus.google.com
+static.xx.fbcdn.net
+t.co
+twitter.com
+www.facebook.com
+www.linkedin.com
