@@ -6,6 +6,7 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 adtech.yahooinc.com
 0.0.0.0 adx.ads.oppomobile.com
 0.0.0.0 advertising-api-eu.amazon.com
@@ -20,6 +21,7 @@
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics.facebook.com
 0.0.0.0 analytics.google.com
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.vungle.com
